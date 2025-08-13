@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mymusictoNMIXX/static/css/main.ada3d967.css",
+    "main.js": "/mymusictoNMIXX/static/js/main.7fa182e5.js",
+    "index.html": "/mymusictoNMIXX/index.html",
+    "main.ada3d967.css.map": "/mymusictoNMIXX/static/css/main.ada3d967.css.map",
+    "main.7fa182e5.js.map": "/mymusictoNMIXX/static/js/main.7fa182e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ada3d967.css",
+    "static/js/main.7fa182e5.js"
+  ]
+}
