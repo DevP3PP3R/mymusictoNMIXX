@@ -12,11 +12,11 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "framer-motion": "^10.12.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
     "react-router-dom": "^6.8.0",
-    "framer-motion": "^10.12.0"
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
@@ -33,5 +33,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://DEVP3PP3R.github.io/mymusictoNMIXX"
+  "homepage": "https://devp3pp3r.github.io/mymusictoNMIXX"
 }
